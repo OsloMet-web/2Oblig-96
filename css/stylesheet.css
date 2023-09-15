@@ -1,3 +1,14 @@
+header{
+    background-color: coral;
+    margin:0%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
+}
+
+h1{
+    font-weight: bolder;
+}
+
 .page{
-    
+    background-color: wheat;
 }
