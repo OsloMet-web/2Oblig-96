@@ -12,10 +12,12 @@ h1{
 
 .page {
     background-color: wheat;
+    display: flex;
+    flex-direction: column;
 }
 
 body{
-    margin-inline-start: 150px;
+    margin-inline-start: 75px;
     margin-right: 150px;
 }
 div{
