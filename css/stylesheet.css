@@ -10,9 +10,10 @@ h1{
     font-weight: bolder;
 }
 
-.page{
+.page {
     background-color: wheat;
 }
+
 body{
     margin-inline-start: 150px;
     margin-right: 150px;
