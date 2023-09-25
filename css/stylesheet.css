@@ -17,8 +17,9 @@ h1{
 }
 
 body{
-    margin-inline-start: 75px;
-    margin-right: 150px;
+    margin left: 22,5%;
+    float: right;
+
 }
 div{
     width: 1210px;
