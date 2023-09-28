@@ -13,20 +13,37 @@ h1{
 .page {
     background-color: wheat;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
 }
 
-body{
-    margin left: 22,5%;
-    float: right;
+.page-content {
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+}
 
+.author-text {
+  font-weight: bold;
+  font-size: small;
+  color: #ff5722;
 }
-div{
-    width: 1210px;
+
+.date-text {
+  font-size: small;
+  font-weight: bold;
+  opacity: 40%;
+  padding-left: 5px;
 }
+
+.author-date-box {
+  display: flex;
+  flex-direction: row;
+}
+
+.subtitle {
+  margin-bottom: 0;
+}
+
 img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60%;
+  width: 100%;
 } 
