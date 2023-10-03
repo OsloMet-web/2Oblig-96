@@ -46,4 +46,12 @@ h1{
 
 img{
   width: 100%;
-} 
+}
+
+
+
+@media only screen and (max-width: 550px) {
+  .page-content {
+    width: 100%;
+  }
+}
